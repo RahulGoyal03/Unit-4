@@ -1,0 +1,20 @@
+[
+    {
+        "date":"11-5-21",
+        "userId":"ObjectId(61a0cbe6482f0b6d1483d8e2)",
+        "studentId":[
+            "61a2580205a4eaccbc10fa11",
+            "61a2580205a4eaccbc10fa12",
+            "61a2580205a4eaccbc10fa13",
+            "61a2580205a4eaccbc10fa14",
+            "61a2580205a4eaccbc10fa15"
+        ],
+        "studentScore":[
+            5,
+            4,
+            3,
+            2,
+            1
+        ]
+    }
+]
